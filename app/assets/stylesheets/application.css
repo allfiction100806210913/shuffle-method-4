@@ -159,7 +159,7 @@ a {
 
 
 body {
-  background-image: url("tramp.jpg");
+  background-image: url("tramp2.jpg");
   background-size: cover;
 
 
@@ -262,5 +262,11 @@ height: 400px;
 
 .wrapper{
   display: grid;
+
+}
+
+.row{
+
+
 
 }
